@@ -1,7 +1,6 @@
 # Documentation
 
 ## Setup
-
 1. Create local and github git repositories
 2. Create static website index.html and buildspec.yml locally
 3. Push to github repository
@@ -16,3 +15,6 @@
 1. Enable static website hosting for the bucket
 2. Add bucket policy
 3. Website is now accessible
+
+### Notes
+Github Repo: https://github.com/LxdRyan/accad4-assessment
