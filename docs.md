@@ -17,4 +17,6 @@
 3. Website is now accessible
 
 ### Notes
-Github Repo: https://github.com/LxdRyan/accad4-assessment
+> Github Repo: https://github.com/LxdRyan/accad4-assessment
+> 
+> Bucket Website Endpoint: http://accad4-assessment-bucket.s3-website-ap-southeast-1.amazonaws.com
